@@ -26,9 +26,23 @@ terraform apply then type **yes**
 
 output will be created a file with contained above text
 
-To validate the code 
+### To validate the code 
 
 ```
 terraform validate
+```
+### then terraform init
+
+```
+terraform init
+```
+### to check what resource will create 
+```
+terraform plan
+```
+
+### for apply terraform the command is 
+```
+terraform apply
 ```
 
