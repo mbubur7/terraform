@@ -25,3 +25,10 @@ terraform init
 terraform apply then type **yes**
 
 output will be created a file with contained above text
+
+To validate the code 
+
+```
+terraform validate
+```
+
