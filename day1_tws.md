@@ -45,4 +45,8 @@ terraform plan
 ```
 terraform apply
 ```
+### For destroy the terraform 
+```
+terraform destroy
+```
 
