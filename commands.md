@@ -47,7 +47,7 @@ terraform plan
 ```
 terraform apply
 ```
-### For destroy the terraform 
+### ommand for destroy the terraform infra
 ```
 terraform destroy
 ```
