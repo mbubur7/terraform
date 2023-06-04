@@ -38,7 +38,7 @@ terraform validate
 ```
 terraform init
 ```
-### to check what resource will create 
+### To check what resource will create 
 ```
 terraform plan
 ```
