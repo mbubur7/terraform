@@ -1,7 +1,5 @@
 # Terraform
 
-## Day 1
-
 ### Create a folder with name "terraform_tws"
 
 ```
